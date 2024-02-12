@@ -13,4 +13,4 @@ This is a small game for the assignments of CSCI 2340.
 >- Complete the sub-window for adding balls.
 
 ## Preview
-<img src="./docs/pics/preview.png">
+<img src="./docs/pics/preview.png" alt="Preview of the Bouncing Ball Game">
