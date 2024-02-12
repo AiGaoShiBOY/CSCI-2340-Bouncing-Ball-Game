@@ -3,7 +3,7 @@ This is a small game for the assignments of CSCI 2340.
 
 ## How to run
 * Install all maven dependencies.
-* Run `main()` in `Game.class`.
+* Run `main()` in `Game.java`.
 
 ## Version History
 * 11/2/2024: 
