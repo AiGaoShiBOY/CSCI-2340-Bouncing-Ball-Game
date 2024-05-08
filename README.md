@@ -10,7 +10,14 @@ This is a small game for the assignments of CSCI 2340.
 
 >- Complete window initialization.
 >- Complete the bouncing effect.
->- Complete the sub-window for adding balls.
+
+* 21/2/2024:
+
+>- Complete adding new Balls.
+
+>- 25/2/2024:
+>- Complete selecting attributes
+>- Complete more refined interaction.
 
 ## Preview
 <img src="./docs/pics/preview.png" alt="Preview of the Bouncing Ball Game">
